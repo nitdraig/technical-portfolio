@@ -84,7 +84,7 @@ export const info = {
   socialMedia: {
     twitter: "https://twitter.com/nitdraig",
     github: "https://github.com/nitdraig",
-    email: "mailto:agustin2051@gmail.com",
+    email: "/contact",
     linkedin:
       "https://www.linkedin.com/in/avellaneda-agust%C3%ADn-tns/?lipi=urn%3Ali%3Apage%3Ad_flagship3_notifications%3BWZKm7hMrR2mBYIbYB4P4ZA%3D%3D",
   },
