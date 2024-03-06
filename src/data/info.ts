@@ -82,10 +82,11 @@ export const info = {
   ],
 
   socialMedia: {
-    twitter: "https://twitter.com/Uzzii_21",
-    github: "https://github.com/uzzii-21",
-    email: "mailto:uzairahmed@74372gmail.com",
-    linkedin: "https://www.linkedin.com/in/uzzii21/",
+    twitter: "https://twitter.com/nitdraig",
+    github: "https://github.com/nitdraig",
+    email: "mailto:agustin2051@gmail.com",
+    linkedin:
+      "https://www.linkedin.com/in/avellaneda-agust%C3%ADn-tns/?lipi=urn%3Ali%3Apage%3Ad_flagship3_notifications%3BWZKm7hMrR2mBYIbYB4P4ZA%3D%3D",
   },
 
   projects: [
@@ -139,7 +140,7 @@ export const info = {
       projectLinkGit: "https://github.com/nitdraig",
       projectLinkDeploy: "https://cfobot-fe.vercel.app",
       projectStack:
-        "Next.js, Tailwind, Express.js, Node.js, MongoDB, GitHub & Yarn",
+        "Next.js, Tailwind, Express.js, Node.js, MongoDB, GitHub & Yarn.",
     },
     {
       projectName: "Fuddy",
@@ -150,7 +151,7 @@ export const info = {
       projectLinkGit: "https://github.com/f-fuddy",
       projectLinkDeploy: "https://fuddy.click",
       projectStack:
-        "Next.js, Tailwind, Express.js, Node.js, MongoDB, React Native, GraphQL, GitHub & Yarn",
+        "Next.js, Tailwind, Express.js, Node.js, MongoDB, React Native, GraphQL, GitHub & Yarn.",
     },
     {
       projectName: "Landing Page DRAIG",
@@ -160,7 +161,7 @@ export const info = {
         "https://res.cloudinary.com/draig/image/upload/v1689203365/portolio-personal/j1zztmcsj5mj3a7eagjs.png",
       projectLinkGit: "https://github.com/nitdraig/draig-page",
       projectLinkDeploy: "https://draig.art",
-      projectStack: "Next.js, Tailwind, Node.js, GitHub & Yarn",
+      projectStack: "Next.js, Tailwind, Node.js, GitHub & Yarn.",
     },
     {
       projectName: "Various jobs in SmartHuerta",
@@ -171,7 +172,7 @@ export const info = {
       projectLinkGit: "https://github.com/nitdraig",
       projectLinkDeploy:
         "https://drive.google.com/drive/folders/1_oambpe1_poCs0VMnTD4b9XyllufxZSL?usp=drive_link",
-      projectStack: "React.js, MUI, Node.js, & GitHub",
+      projectStack: "React.js, MUI, Node.js, & GitHub.",
     },
     {
       projectName: "Proyect in Alura bootcamp ",
@@ -181,7 +182,7 @@ export const info = {
         "https://res.cloudinary.com/draig/image/upload/v1689203842/portolio-personal/v2nau1wgkx2d3ofeeq9d.png",
       projectLinkGit: "https://github.com/nitdraig/org-proyect-alura",
       projectLinkDeploy: "https://org-proyect-alura.vercel.app",
-      projectStack: "React.js, & GitHub",
+      projectStack: "React.js, & GitHub.",
     },
     {
       projectName: "Landing page for TNS",
@@ -191,7 +192,7 @@ export const info = {
         "https://res.cloudinary.com/draig/image/upload/v1689203304/portolio-personal/diuigsviz2nuybwzlewi.png",
       projectLinkGit: "https://github.com/nitdraig/tinta-negra-studios-nextjs",
       projectLinkDeploy: "https://tinta-negra-studios.vercel.app",
-      projectStack: "Next.js, Tailwind & GitHub,",
+      projectStack: "Next.js, Tailwind & GitHub.",
     },
     {
       projectName: "Integrator Project",
@@ -202,7 +203,7 @@ export const info = {
       projectLinkGit: "https://github.com/users/nitdraig/projects/2",
       projectLinkDeploy: "https://a-agustin-portfolio-ap-68352.web.app",
       projectStack:
-        "Java, SpringBoot, Angular, GitHub, Bootstrap, Typescript, Firebase, & MySQL",
+        "Java, SpringBoot, Angular, GitHub, Bootstrap, Typescript, Firebase, & MySQL.",
     },
   ],
 };

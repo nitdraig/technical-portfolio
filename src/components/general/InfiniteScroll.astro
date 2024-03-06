@@ -1,24 +1,27 @@
 ---
-import { Image } from "astro:assets";
-import styles from "../../styles/scroll.style.css";
+
 ---
 
 <div class="div">
   <div class="scroller" data-speed="fast">
     <ul class="tag-list scroller__inner">
-      <li>HTML</li>
-      <li>CSS</li>
-      <li>JAVASCRIPT</li>
-      <li>REACTJS</li>
-      <li>NEXTJS</li>
-      <li>EXPRESS</li>
-      <li>NODEJS</li>
-      <li>TAILWIND CSS</li>
-      <li>MUI</li>
-      <li>PYTHON</li>
-      <li>NOTION</li>
-      <li>TRELLO</li>
-      <li>OPENAI</li>
+      <li><img src="./logospro/html2.svg" class="w-24 -mt-2" /></li>
+      <li><img src="./logospro/css.svg" class="w-24 -mt-2" /></li>
+      <li><img src="./logospro/javascript.svg" class="w-20" /></li>
+      <li><img src="./logospro/typescript.svg" class="w-24 -mt-2" /></li>
+      <li><img src="./logospro/react1.svg" class="w-32 -mt-6" /></li>
+      <li><img src="./logospro/nextjs2.svg" class="w-36 invert -mt-8" /></li>
+      <li><img src="./logospro/express.svg" class="w-44 invert -mt-11" /></li>
+
+      <li><img src="./logospro/tailwind.svg" class="w-28 -mt-6" /></li>
+      <li><img src="./logospro/material.svg" class="w-20" /></li>
+      <li><img src="./logospro/python.svg" class="w-20" /></li>
+      <li><img src="./logospro/openai.svg" class="w-20 invert" /></li>
+      <li><img src="./logospro/notion.svg" class="w-20 invert" /></li>
+      <li><img src="./logospro/trello.svg" class="w-20" /></li>
+      <li><img src="./logospro/github.svg" class="w-20 invert" /></li>
+      <li><img src="./logospro/postman.svg" class="w-20" /></li>
+      <li><img src="./logospro/vercel.svg" class="w-20 invert" /></li>
     </ul>
   </div>
 </div>
@@ -33,7 +36,7 @@ import styles from "../../styles/scroll.style.css";
     margin: 0;
     padding-inline: 0;
     list-style: none;
-    padding: 3rem;
+    padding: 1rem;
   }
 
   .tag-list li {
@@ -102,23 +105,17 @@ import styles from "../../styles/scroll.style.css";
 <script>
   const scrollers = document.querySelectorAll(".scroller");
 
-  // If a user hasn't opted in for recuded motion, then we add the animation
   if (!window.matchMedia("(prefers-reduced-motion: reduce)").matches) {
     addAnimation();
   }
 
   function addAnimation() {
     scrollers.forEach((scroller) => {
-      // add data-animated="true" to every `.scroller` on the page
       scroller.setAttribute("data-animated", true);
 
-      // Make an array from the elements within `.scroller-inner`
       const scrollerInner = scroller.querySelector(".scroller__inner");
       const scrollerContent = Array.from(scrollerInner.children);
 
-      // For each item in the array, clone it
-      // add aria-hidden to it
-      // add it into the `.scroller-inner`
       scrollerContent.forEach((item) => {
         const duplicatedItem = item.cloneNode(true);
         duplicatedItem.setAttribute("aria-hidden", true);

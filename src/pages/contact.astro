@@ -1,6 +1,8 @@
 ---
+import Footer from "@layouts/Footer.astro";
 import styles from "../styles/style.css";
-import IndexView from "../views/IndexView/IndexView.astro";
+import NavBar from "../layouts/NavBar.astro";
+import ContactView from "../views/ContactView/ContactView.astro";
 ---
 
 <html lang="en">
@@ -16,9 +18,11 @@ import IndexView from "../views/IndexView/IndexView.astro";
     />
     <meta name="viewport" content="width=device-width" />
     <meta name="generator" />
-    <title>Agustín Avellaneda | FullStack Web Developer</title>
+    <title>Contact Me | Agustín Avellaneda | FullStack Web Developer</title>
   </head>
   <body>
-    <IndexView />
+    <NavBar />
+    <ContactView />
+    <Footer />
   </body>
 </html>
