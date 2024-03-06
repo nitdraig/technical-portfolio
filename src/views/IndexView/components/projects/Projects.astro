@@ -1,0 +1,15 @@
+---
+import ProjectCard from "../../../../components/general/ProjectCard.astro";
+import { info } from "../../../../data/info";
+---
+
+<section class="h-full" id="projects">
+  <h3
+    class="lg:p-12 text-center lg:uppercase tracking-[2px] text-2xl lg:text-3xl lg:tracking-[8px] text-white lg:pt-3 pt-5 pb-4 lg:pb-8"
+  >
+    My Projects
+  </h3>
+  <div class="grid md:grid-cols-2 grid-cols-1 gap-4 my-16">
+    {info.projects.map((project) => <ProjectCard projectDetail={project} />)}
+  </div>
+</section>
