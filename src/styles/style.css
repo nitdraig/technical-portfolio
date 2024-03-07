@@ -28,6 +28,6 @@ h4 {
 p {
   text-wrap: pretty;
 }
-img {
+.img {
   -webkit-user-drag: none;
 }
