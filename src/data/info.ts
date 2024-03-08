@@ -65,6 +65,16 @@ export const info = {
 
   projects: [
     {
+      projectName: "Freelance Portfolio",
+      projectDescription:
+        "I develop this website to offer my freelance services and create a personal brand.",
+      projectImg:
+        "https://res.cloudinary.com/draig/image/upload/v1709930391/portolio-personal/q4ub1bebzhapigshgvns.png",
+      projectLinkGit: "https://github.com/nitdraig",
+      projectLinkDeploy: "https://agustin.top/",
+      projectStack: "Next.js, tailwind, Cloudflare, Vercel, y GitHub.",
+    },
+    {
       projectName: "Skipy",
       projectDescription:
         "A multi-tool that seeks to centralize everyday resources for programmers and IT users. It has URL shortener, Password generator, QR code and Text encryptor.",
