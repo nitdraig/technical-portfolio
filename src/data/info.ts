@@ -65,6 +65,17 @@ export const info = {
 
   projects: [
     {
+      projectName: "DC Consultura - Exclusive website",
+      projectDescription:
+        "I created this website in a personalized way and with an exclusive design, focused on the consultancy, its needs and on par with the client's criteria. It's a freelance job. In addition to programming and design, I collaborated in the creation of social networks, logos, online presence, page maintenance, domain and SEO optimization.",
+      projectImg:
+        "https://res.cloudinary.com/draig/image/upload/v1709857812/freelance/dc-consultora/jeyhi2cocajc7ouv4cnx.png",
+      projectLinkGit: "https://github.com/nitdraig/",
+      projectLinkDeploy: "https://dcconsultora.com.ar/",
+      projectStack:
+        "Next.js, tailwind, Express, Cloudflare, Express, Vercel, and GitHub.",
+    },
+    {
       projectName: "Freelance Portfolio",
       projectDescription:
         "I develop this website to offer my freelance services and create a personal brand.",
