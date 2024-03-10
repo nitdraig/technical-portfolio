@@ -71,7 +71,7 @@ const {
   >
     <img
       src={projectImg}
-      class="w-full h-auto scale-100 hover:scale-110 transition duration-[1.5s]"
+      class="w-full lg:h-auto h-[20rem] scale-100 hover:scale-110 transition duration-[1.5s]"
       loading="lazy"
       width="100%"
       height="100%"
@@ -81,8 +81,10 @@ const {
   <div
     class="absolute w-full bottom-0 left-0 backdrop-blur-lg dark:text-white text-white bg-black/50 p-4 translate-y-[100%] group-hover:translate-y-0 transition duration-700"
   >
-    <h3 class="mr-2 text-2xl font-bold">{projectName}</h3>
-    <p class="text-xl">{projectDescription}</p>
-    <p class="text-xl font-semibold text-white">Stack: {projectStack}</p>
+    <h3 class="mr-2 lg:text-2xl text-lg font-bold">{projectName}</h3>
+    <p class="lg:text-xl text-md">{projectDescription}</p>
+    <p class="lg:text-xl text-sm font-semibold text-white">
+      Stack: {projectStack}
+    </p>
   </div>
 </article>
