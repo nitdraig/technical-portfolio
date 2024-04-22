@@ -2,7 +2,7 @@ export const info = {
   experience: [
     {
       name: "Product Owner & IT Project Manager",
-      location: "InkuA",
+      location: "InkuA - Remote",
       startDate: "Apr 2024",
       endDate: "Present",
       description: [
@@ -16,8 +16,8 @@ export const info = {
       ],
     },
     {
-      name: "Freelance (Remote)",
-      location: "Online bussiness",
+      name: "Freelance Web Developer, FullStack Developer, Social Media Manager",
+      location: "Remote",
       startDate: "Dec 2023",
       endDate: "Present",
       description: [
@@ -26,8 +26,8 @@ export const info = {
       ],
     },
     {
-      name: "Fuddy (Remote)",
-      location: "Catamarca - Argentina",
+      name: "IT Project Manager, FullStack Developer, Founder",
+      location: "Fuddy - Remote",
       startDate: "Sept 2023",
       endDate: "Mar 2024",
       description: [
@@ -43,8 +43,8 @@ export const info = {
     },
 
     {
-      name: "Advance Valley (Remote)",
-      location: "Catamarca - Argentina",
+      name: "Front-end Developer",
+      location: "Advance Valley - Remote",
       startDate: "Jan 2023",
       endDate: "Jun 2023",
       description: [
@@ -58,7 +58,7 @@ export const info = {
 
     {
       name: "Tinta Negra Studios",
-      location: "Catamarca - Argentina",
+      location: "Catamarca - Argentina - In person",
       startDate: "Oct 2020",
       endDate: "Nov 2020",
       description: [
