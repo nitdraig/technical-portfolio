@@ -1,6 +1,21 @@
 export const info = {
   experience: [
     {
+      name: "Product Owner & IT Project Manager",
+      location: "InkuA",
+      startDate: "Apr 2024",
+      endDate: "Present",
+      description: [
+        "✓ I managed a team of 4 people, performing dual roles as Project Manager, and Product Owner.",
+        " ✓ I made a translation of the client's needs to establish the sprints, guides and form the final idea that was aspired to.",
+        "✓  I defined quality parameters to guarantee the delivery of the project.",
+        "✓  Established a cultural framework that encourages collaboration and innovation.",
+        "✓  Provided support in programming areas, guiding the team towards effective technical solutions.",
+        "✓  Daily meeting guide to maintain team cohesion and effectiveness.",
+        "✓  Technologies: Jira, Trello, Google Drive, Odoo, Scrum, CASFF and Discord.",
+      ],
+    },
+    {
       name: "Freelance (Remote)",
       location: "Online bussiness",
       startDate: "Dec 2023",
