@@ -80,6 +80,17 @@ export const info = {
 
   projects: [
     {
+      projectName: "MascoCuidados - Project WebApp",
+      projectDescription:
+        "I was part of the C-17-11-t team, collaborating as Front-End Developer, I developed key modules and components for the operation of the app, such as the AuthProvider that allowed access to the registered user, and the user movement flow in the web.",
+      projectImg:
+        "https://res.cloudinary.com/draig/image/upload/v1714865679/portolio-personal/q2nemw8fucfadxy4tttz.png",
+      projectLinkGit: "https://github.com/No-Country/c17-11-t-node-react",
+      projectLinkDeploy: "https://mascocuidado.netlify.app",
+      projectStack:
+        "ReactJs+Vite, tailwind, NestJs, Vercel, Render, and GitHub.",
+    },
+    {
       projectName: "DC Consultura - Exclusive website",
       projectDescription:
         "I created this website in a personalized way and with an exclusive design, focused on the consultancy, its needs and on par with the client's criteria. It's a freelance job. In addition to programming and design, I collaborated in the creation of social networks, logos, online presence, page maintenance, domain and SEO optimization.",
