@@ -80,6 +80,16 @@ export const info = {
 
   projects: [
     {
+      projectName: "DRAIG - Landing Page",
+      projectDescription:
+        "A page made for my artistic side 'DRAIG', react, tailwind and various libraries were used in order to give it movement and responsiveness in various formats. Uploaded to vercel. The images are optimized and uploaded to the 'cloudinary' online file manager.",
+      projectImg:
+        "https://res.cloudinary.com/draig/image/upload/v1716756378/draig-page/w2mxnh6grba0tcdoqeiu.png",
+      projectLinkGit: "https://github.com/nitdraig/draig-page-2.0",
+      projectLinkDeploy: "https://draig.art",
+      projectStack: "Next.js, Tailwind, Node.js, Typescript, GitHub & Yarn.",
+    },
+    {
       projectName: "MascoCuidados - Project WebApp",
       projectDescription:
         "I was part of the C-17-11-t team, collaborating as Front-End Developer, I developed key modules and components for the operation of the app, such as the AuthProvider that allowed access to the registered user, and the user movement flow in the web.",
@@ -197,16 +207,7 @@ export const info = {
       projectStack:
         "Next.js, Tailwind, Express.js, Node.js, MongoDB, React Native, GraphQL, Markdown, GitHub y Vercel.",
     },
-    {
-      projectName: "Landing Page DRAIG",
-      projectDescription:
-        "A page made for my artistic side 'DRAIG', react, tailwind and various libraries were used in order to give it movement and responsiveness in various formats. Uploaded to vercel. The images are optimized and uploaded to the 'cloudinary' online file manager.",
-      projectImg:
-        "https://res.cloudinary.com/draig/image/upload/v1689203365/portolio-personal/j1zztmcsj5mj3a7eagjs.png",
-      projectLinkGit: "https://github.com/nitdraig/draig-page",
-      projectLinkDeploy: "https://draig.art",
-      projectStack: "Next.js, Tailwind, Node.js, GitHub & Yarn.",
-    },
+
     {
       projectName: "Various jobs in SmartHuerta",
       projectDescription:
