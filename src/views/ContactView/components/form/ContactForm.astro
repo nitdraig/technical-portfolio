@@ -1,13 +1,9 @@
 ---
-
+const formKey = import.meta.env.FORMKEY;
 ---
 
 <form action="https://api.web3forms.com/submit" method="POST" class="mt-10">
-  <input
-    type="hidden"
-    name="access_key"
-    value="00508230-7874-4c07-9a37-97e9f3235d67"
-  />
+  <input type="hidden" name="access_key" value={formKey} />
   <div class="grid gap-6 sm:grid-cols-2">
     <div class="relative z-0">
       <input
