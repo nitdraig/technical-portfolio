@@ -95,7 +95,7 @@ export const info = {
         "I was part of the C-17-11-t team, collaborating as Front-End Developer, I developed key modules and components for the operation of the app, such as the AuthProvider that allowed access to the registered user, and the user movement flow in the web.",
       projectImg:
         "https://res.cloudinary.com/draig/image/upload/v1714865679/portolio-personal/q2nemw8fucfadxy4tttz.png",
-      projectLinkGit: "https://github.com/No-Country/c17-11-t-node-react",
+      projectLinkGit: "https://github.com/nitdraig/c17-11-t-nocountry",
       projectLinkDeploy: "https://mascocuidado.netlify.app",
       projectStack:
         "ReactJs+Vite, tailwind, NestJs, Vercel, Render, and GitHub.",
