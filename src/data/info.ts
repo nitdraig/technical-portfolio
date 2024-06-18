@@ -80,6 +80,18 @@ export const info = {
 
   projects: [
     {
+      projectName: "Woodwork - Project WebApp",
+      projectDescription:
+        "I was part of s15_17_t, collaborating as Front-End Developer and Project Manager in NoCountry. Defining goals, tasks, and delivery periods. Collaborating on the visual interface and logo creation",
+      projectImg:
+        "https://res.cloudinary.com/draig/image/upload/v1718670273/portolio-personal/dy9e7ngn1myydst3a9jw.png",
+      projectLinkGit:
+        "https://github.com/nitdraig/s15_17_t_java_angular_woodwork",
+      projectLinkDeploy: "https://woodwork-one.vercel.app",
+      projectStack:
+        "ReactJs+Vite, Tailwind, Typescript, Java, Vercel, Render, and GitHub.",
+    },
+    {
       projectName: "DRAIG - Landing Page",
       projectDescription:
         "A page made for my artistic side 'DRAIG', react, tailwind and various libraries were used in order to give it movement and responsiveness in various formats. Uploaded to vercel. The images are optimized and uploaded to the 'cloudinary' online file manager.",
@@ -92,13 +104,13 @@ export const info = {
     {
       projectName: "MascoCuidados - Project WebApp",
       projectDescription:
-        "I was part of the C-17-11-t team, collaborating as Front-End Developer, I developed key modules and components for the operation of the app, such as the AuthProvider that allowed access to the registered user, and the user movement flow in the web.",
+        "I was part of the C-17-11-t team in NoCountry, collaborating as Front-End Developer, I developed key modules and components for the operation of the app, such as the AuthProvider that allowed access to the registered user, and the user movement flow in the web.",
       projectImg:
         "https://res.cloudinary.com/draig/image/upload/v1714865679/portolio-personal/q2nemw8fucfadxy4tttz.png",
       projectLinkGit: "https://github.com/nitdraig/c17-11-t-nocountry",
       projectLinkDeploy: "https://mascocuidado.netlify.app",
       projectStack:
-        "ReactJs+Vite, tailwind, NestJs, Vercel, Render, and GitHub.",
+        "ReactJs+Vite, Tailwind, NestJs, Vercel, Render, and GitHub.",
     },
     {
       projectName: "DC Consultura - Exclusive website",
