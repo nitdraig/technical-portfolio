@@ -16,7 +16,7 @@ export const info = {
       ],
     },
     {
-      name: "Freelance Web Developer, FullStack Developer, Social Media Manager",
+      name: "Freelance Fullstack Web Developer,  Social Media Manager",
       location: "Remote",
       startDate: "Dec 2023",
       endDate: "Present",
