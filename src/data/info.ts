@@ -80,6 +80,28 @@ export const info = {
 
   projects: [
     {
+      projectName: "Mailprex - Docs Page",
+      projectDescription:
+        "This is a documentation page that shows all the functionalities of the Mailprex web application. It's fully responsive and is fully functional. ",
+      projectImg:
+        "https://res.cloudinary.com/draig/image/upload/v1719099193/mailprex/krogbewhralefdqabho2.webp",
+      projectLinkGit: "https://github.com/nitdraig/mailprex-docs",
+      projectLinkDeploy: "https://docs.mailprex.top",
+      projectStack:
+        "NextJs, Nextra, Tailwind, Typescript, Cloudinary, Google Search, Vercel and GitHub.",
+    },
+    {
+      projectName: "Mailprex - Saas WebApp",
+      projectDescription:
+        "Mailprex is a web platform designed to simplify the process of submitting forms from websites to emails. You can easily integrate a React Hook, to which you pass the minimum data that enables sending and the content of the form reaches your chosen email without further inconvenience.",
+      projectImg:
+        "https://res.cloudinary.com/draig/image/upload/v1718564493/mailprex/ecqm348liaxh626yzscs.png",
+      projectLinkGit: "https://github.com/nitdraig/usemailprex-hook",
+      projectLinkDeploy: "https://mailprex.top",
+      projectStack:
+        "NextJs, Tailwind, Typescript, ExpressJs, NodeJs, Cloudinary, Google Search, Vercel and GitHub.",
+    },
+    {
       projectName: "Woodwork - Project WebApp",
       projectDescription:
         "I was part of s15_17_t, collaborating as Front-End Developer and Project Manager in NoCountry. Defining goals, tasks, and delivery periods. Collaborating on the visual interface and logo creation",
