@@ -80,6 +80,17 @@ export const info = {
 
   projects: [
     {
+      projectName: "C-UI - Components Library ",
+      projectDescription:
+        "C-UI is a component library built with Tailwind CSS and TypeScript for React and Next.js applications. It focuses on consistency, reusability, clarity, simplicity and adaptability to provide an excellent user and developer experience.",
+      projectImg:
+        "https://res.cloudinary.com/draig/image/upload/v1720480555/cui/delpbnaaofw6vomfoypj.png",
+      projectLinkGit: "https://github.com/nitdraig/cui-react",
+      projectLinkDeploy: "https://c-ui.agustin.top",
+      projectStack:
+        "NextJs, Nextra, Tailwind, Typescript, Cloudinary, Google Search, Vercel, Npm, and GitHub.",
+    },
+    {
       projectName: "Mailprex - Docs Page",
       projectDescription:
         "This is a documentation page that shows all the functionalities of the Mailprex web application. It's fully responsive and is fully functional. ",
