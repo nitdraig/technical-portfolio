@@ -1,0 +1,33 @@
+---
+type Props = {
+  post: {
+    id: string;
+    title: string;
+    date: string;
+    image: string;
+    category: string;
+  }[];
+};
+
+const { post }: { post: any } = Astro.props;
+---
+
+<div class="py-4">
+  <a href={`/posts/${post.id}`} class="block max-w-xs overflow-hidden">
+    <div class="w-full bg-cover min-h-64">
+      <img
+        src={post.image}
+        class="w-full h-36 object-cover shadow-md scale-100 hover:scale-110 transition duration-[1.5s] rounded-md"
+        alt={post.title}
+      />
+
+      <div class="p-4">
+        <span class="text-gray-100 text-xs uppercase">{post.category}</span>
+        <h3 class="text-gray-200 font-bold text-lg mt-1 hover:underline">
+          {post.title}
+        </h3>
+        <span class="text-gray-300 text-sm">Posted on: {post.date}</span>
+      </div>
+    </div>
+  </a>
+</div>

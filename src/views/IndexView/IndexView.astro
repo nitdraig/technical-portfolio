@@ -1,7 +1,25 @@
 ---
 import Hero from "../IndexView/components/hero/Hero.astro";
+import BlogCards from "./components/blogCards/BlogCards.astro";
+type Props = {
+  posts: {
+    id: string;
+    title: string;
+    date: string;
+    image: string;
+    category: string;
+  }[];
+};
+
+const { posts }: { posts: any[] } = Astro.props;
 ---
 
-<>
-  <Hero />
-</>
+<section class="text-white lg:px-24 lg:py-0 px-10 py-10">
+  <div class="">
+    <Hero />
+    <section>
+      <h3 class="lg:text-2xl text-lg pt-2 font-serif">My latest posts</h3>
+      <BlogCards posts={posts} />
+    </section>
+  </div>
+</section>

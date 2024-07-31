@@ -1,0 +1,25 @@
+---
+import Cards from "./Cards.astro";
+
+const { posts }: any = Astro.props;
+---
+
+<div class="mb-4"></div>
+<div class="flex flex-row flex-wrap justify-center space-x-4">
+  {posts.map((post: any) => <Cards post={post} />)}
+  <div class="max-w-screen-md mx-auto mt-10 mb-10">
+    <a href="https://en.blog.agustin.top/blog" target="_blank">
+      <button
+        class="group relative h-12 w-48 overflow-hidden rounded-lg bg-white text-lg shadow"
+      >
+        <div
+          class="absolute inset-0 w-3 bg-[#6A0DAD] transition-all duration-[250ms] ease-out group-hover:w-full"
+        >
+        </div>
+        <span class="relative text-[#212529] group-hover:text-white">
+          See all posts
+        </span>
+      </button>
+    </a>
+  </div>
+</div>
