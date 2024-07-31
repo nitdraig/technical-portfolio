@@ -131,7 +131,7 @@ export const info = {
       projectImg:
         "https://res.cloudinary.com/draig/image/upload/v1716756378/draig-page/w2mxnh6grba0tcdoqeiu.png",
       projectLinkGit: "https://github.com/nitdraig/draig-page-2.0",
-      projectLinkDeploy: "https://draig.art",
+      projectLinkDeploy: "https://draig.agustin.top/",
       projectStack: "Next.js, Tailwind, Node.js, Typescript, GitHub & Yarn.",
     },
     {
