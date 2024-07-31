@@ -13,7 +13,10 @@ const { post }: { post: any } = Astro.props;
 ---
 
 <div class="py-4">
-  <a href={`/posts/${post.id}`} class="block max-w-xs overflow-hidden">
+  <a
+    href={`https://en.blog.agustin.top/posts/${post.id}`}
+    class="block max-w-xs overflow-hidden"
+  >
     <div class="w-full bg-cover min-h-64">
       <img
         src={post.image}
