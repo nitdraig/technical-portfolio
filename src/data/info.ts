@@ -281,7 +281,7 @@ export const info = {
       projectImg:
         "https://res.cloudinary.com/draig/image/upload/v1689203304/portolio-personal/diuigsviz2nuybwzlewi.png",
       projectLinkGit: "https://github.com/nitdraig/tinta-negra-studios-nextjs",
-      projectLinkDeploy: "https://tinta-negra-studios.vercel.app",
+      projectLinkDeploy: "https://tns.agustin.top",
       projectStack: "Next.js, Tailwind & GitHub.",
     },
     {
