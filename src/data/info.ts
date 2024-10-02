@@ -80,6 +80,17 @@ export const info = {
 
   projects: [
     {
+      projectName: "ROGER - AI Advisor ",
+      projectDescription:
+        "ROGER is a fast and efficient investment consultant designed to help you make informed decisions about buying, selling or holding stocks in the S&P 500. Developed in Flask, uses GPT and the Yahoo Finances API",
+      projectImg:
+        "https://res.cloudinary.com/draig/image/upload/v1720480555/cui/delpbnaaofw6vomfoypj.png",
+      projectLinkGit: "https://github.com/nitdraig/roger",
+      projectLinkDeploy: "https://roger.agustin.top",
+      projectStack:
+        "Flask, Python, Cloudinary, Render, Npm, and GitHub.",
+    },
+    {
       projectName: "C-UI - Components Library ",
       projectDescription:
         "C-UI is a component library built with Tailwind CSS and TypeScript for React and Next.js applications. It focuses on consistency, reusability, clarity, simplicity and adaptability to provide an excellent user and developer experience.",
