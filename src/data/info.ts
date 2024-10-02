@@ -84,7 +84,7 @@ export const info = {
       projectDescription:
         "ROGER is a fast and efficient investment consultant designed to help you make informed decisions about buying, selling or holding stocks in the S&P 500. Developed in Flask, uses GPT and the Yahoo Finances API",
       projectImg:
-        "https://res.cloudinary.com/draig/image/upload/v1720480555/cui/delpbnaaofw6vomfoypj.png",
+        "https://res.cloudinary.com/draig/image/upload/v1727232420/roger/if8u5veyle8cicpbbirk.png",
       projectLinkGit: "https://github.com/nitdraig/roger",
       projectLinkDeploy: "https://roger.agustin.top",
       projectStack:
