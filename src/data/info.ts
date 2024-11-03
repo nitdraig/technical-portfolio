@@ -1,6 +1,21 @@
 export const info = {
   experience: [
     {
+      name: "Project Manager",
+      location: "DigiChanges - Remote",
+      startDate: "Oct 2024",
+      endDate: "Present",
+      description: [
+        "✓ I collaborate in the planning and management of software projects from start to finish.",
+        "✓ I coordinate the work teams involved in the projects, including development, design and other related areas.",
+        "✓ I supervise and monitor project schedules and deadlines.",
+        "✓ I help in solving problems that may arise during the development of projects.",
+        "✓ I am in charge of ensuring that the objectives and deliverables of the projects are met within the established deadlines.",
+        "✓ I coordinate and implement the deployment of products in the different environments that the projects have.",
+        "✓ Technologies: Github Projects, Github, Zoho Mail, Google Drive, Scrum, CASFF and Discord.",
+      ],
+    },
+    {
       name: "Product Owner & IT Project Manager",
       location: "InkuA - Remote",
       startDate: "Apr 2024",
@@ -87,8 +102,7 @@ export const info = {
         "https://res.cloudinary.com/draig/image/upload/v1727232420/roger/if8u5veyle8cicpbbirk.png",
       projectLinkGit: "https://github.com/nitdraig/roger",
       projectLinkDeploy: "https://roger.agustin.top",
-      projectStack:
-        "Flask, Python, Cloudinary, Render, Npm, and GitHub.",
+      projectStack: "Flask, Python, Cloudinary, Render, Npm, and GitHub.",
     },
     {
       projectName: "C-UI - Components Library ",
