@@ -1,6 +1,21 @@
 export const info = {
   experience: [
     {
+      name: "IcarisTech",
+      location: "Web Development Project Manager | Remote",
+      startDate: "Sept 2024",
+      endDate: "Present",
+      description: [
+        "✓ I collaborate in the direction of an IT team of 5 people, as a Project Manager and performing tasks as a Web Developer.",
+        "✓ I translated the client's needs to establish the sprints, guides and form the structure of the final idea.",
+        "✓ I defined quality parameters to guarantee the delivery of the project.",
+        "✓ I participated in negotiation meetings, interpretation of problems and the creation of service contracts detailing the limits, needs and costs of projects.",
+        "✓ I established the cultural framework for collaboration and innovation.",
+        "✓ Guide to daily meetings, meetings with stakeholders, monitoring tasks and objectives to maintain team cohesion and effectiveness.",
+        "✓ Technologies: Github Projects, ReactJS, Vercel, NodeJS, Google Drive, Scrum, CASFF and Discord.",
+      ],
+    },
+    {
       name: "Project Manager",
       location: "DigiChanges - Remote",
       startDate: "Oct 2024",
@@ -19,7 +34,7 @@ export const info = {
       name: "Product Owner & IT Project Manager",
       location: "InkuA - Remote",
       startDate: "Apr 2024",
-      endDate: "Present",
+      endDate: "Sept 2024",
       description: [
         "✓ I managed a team of 4 people, performing dual roles as Project Manager, and Product Owner.",
         " ✓ I made a translation of the client's needs to establish the sprints, guides and form the final idea that was aspired to.",
@@ -94,6 +109,17 @@ export const info = {
   },
 
   projects: [
+    {
+      projectName: "HuellitasCTG - WEBAPP",
+      projectDescription:
+        "I was part of the website development team for HuellitasCTG, an NGO that rescues street animals and helps them find a home. In this team I collaborated as ProductOwner and ProjectManager of a team of 5 people.",
+      projectImg:
+        "https://res.cloudinary.com/draig/image/upload/v1732390002/portolio-personal/vtk7r8pk8dt3sxozdz9s.png",
+      projectLinkGit: "https://github.com/inkua/Huellitas",
+      projectLinkDeploy: "https://www.huellitasctgna.com",
+      projectStack:
+        "Nextjs, Strapi, Tailwind, Typescript, Trello, Google Drive, Cloudinary, Npm, and GitHub.",
+    },
     {
       projectName: "ROGER - AI Advisor ",
       projectDescription:
