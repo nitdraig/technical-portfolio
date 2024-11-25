@@ -1,8 +1,8 @@
 export const info = {
   experience: [
     {
-      name: "IcarisTech",
-      location: "Web Development Project Manager | Remote",
+      name: "Web Development Project Manager",
+      location: "IcarisTech - Remote",
       startDate: "Sept 2024",
       endDate: "Present",
       description: [
