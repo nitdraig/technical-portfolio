@@ -19,7 +19,7 @@ export const info = {
       name: "Project Manager",
       location: "DigiChanges - Remote",
       startDate: "Oct 2024",
-      endDate: "Present",
+      endDate: "Dec 2024",
       description: [
         "✓ I collaborate in the planning and management of software projects from start to finish.",
         "✓ I coordinate the work teams involved in the projects, including development, design and other related areas.",
