@@ -230,16 +230,6 @@ export const info = {
     },
 
     {
-      projectName: "Barber Template",
-      projectDescription:
-        "This template is a generic one that I created to offer freelance website services to small businesses and growing businesses, it is part of a project that I am developing in collaboration with startups. Developed in nextjs, using cloudinary to manage the images, tailwind for the styles and netlify for the display.",
-      projectImg:
-        "https://res.cloudinary.com/draig/image/upload/v1703710922/plantillas/barberia/hndetznwqmznic3ydvxt.png",
-      projectLinkGit: "https://github.com/nitdraig/",
-      projectLinkDeploy: "https://templatebaber.netlify.app/",
-      projectStack: "Next.js, tailwind, y GitHub.",
-    },
-    {
       projectName: "Ninja Challenge",
       projectDescription:
         "A project for Ninja Talent's React.js Jr. code challenge. An interface is developed that allows listing and viewing details of users individually, connected to 'back-end' that randomly brings up users and their information.",
@@ -305,27 +295,6 @@ export const info = {
     },
 
     {
-      projectName: "Various jobs in SmartHuerta",
-      projectDescription:
-        "I made various components for the 'Advance Valley' project called 'Smart Huerta', I can't attach the links but I leave some images to review.",
-      projectImg:
-        "https://res.cloudinary.com/draig/image/upload/v1689207890/portolio-personal/wxy0cuonsonllclb277q.png",
-      projectLinkGit: "https://github.com/nitdraig",
-      projectLinkDeploy:
-        "https://drive.google.com/drive/folders/1_oambpe1_poCs0VMnTD4b9XyllufxZSL?usp=drive_link",
-      projectStack: "React.js, MUI, Node.js, & GitHub.",
-    },
-    {
-      projectName: "Proyect in Alura bootcamp ",
-      projectDescription:
-        "A project made with React and different hooks from it, allows you to create new members in the organization, change color and assign roles to each one, as well as delete members with the click of a button. Uploaded to vercel.",
-      projectImg:
-        "https://res.cloudinary.com/draig/image/upload/v1689203842/portolio-personal/v2nau1wgkx2d3ofeeq9d.png",
-      projectLinkGit: "https://github.com/nitdraig/org-proyect-alura",
-      projectLinkDeploy: "https://org-proyect-alura.vercel.app",
-      projectStack: "React.js, & GitHub.",
-    },
-    {
       projectName: "Landing page for TNS",
       projectDescription:
         "A landing page developed for 'Tinta negra studios' an independent music studio. It is developed in Next.js, using tailwind for styling, cloudinary to optimize image loading, and various animation libraries. Optimization for positioning was carried out through SEO. Vercel was used to deploy the project.",
@@ -334,17 +303,6 @@ export const info = {
       projectLinkGit: "https://github.com/nitdraig/tinta-negra-studios-nextjs",
       projectLinkDeploy: "https://tns.agustin.top",
       projectStack: "Next.js, Tailwind & GitHub.",
-    },
-    {
-      projectName: "Integrator Project",
-      projectDescription:
-        "Fullstack project for the course of Argentina Program. Front-End with Angular, bootstrap, CSS, and typescript. Uploaded to Firebase. Back-End with Spring, Java, MySQL and Json. Uploaded to Render. It has a login implemented, when logged in it allows you to modify specific sections and update it in the back-end.",
-      projectImg:
-        "https://res.cloudinary.com/draig/image/upload/v1689203290/portolio-personal/hzywdftudntjzxqnjowg.jpg",
-      projectLinkGit: "https://github.com/users/nitdraig/projects/2",
-      projectLinkDeploy: "https://a-agustin-portfolio-ap-68352.web.app",
-      projectStack:
-        "Java, SpringBoot, Angular, GitHub, Bootstrap, Typescript, Firebase, & MySQL.",
     },
   ],
 };
