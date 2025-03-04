@@ -223,8 +223,8 @@ export const info = {
         "A multi-tool that seeks to centralize everyday resources for programmers and IT users. It has URL shortener, Password generator, QR code and Text encryptor.",
       projectImg:
         "https://res.cloudinary.com/draig/image/upload/v1706016395/portolio-personal/m4lxn8etwagxrdxzxynu.png",
-      projectLinkGit: "https://skipy.top/ozxzrf",
-      projectLinkDeploy: "https://skipy.top/",
+      projectLinkGit: "https://skipy.click/ozxzrf",
+      projectLinkDeploy: "https://skipy.click/",
       projectStack:
         "Next.js, tailwind, Express, Cloudflare, Canny, Vercel, y GitHub.",
     },
