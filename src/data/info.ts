@@ -111,10 +111,10 @@ export const info = {
   projects: [
     {
       projectname: "JEMA | AI for Environmental Impact Project Management ",
-      projectdescription:
+      projectDescription:
         "A platform that uses an artificial intelligence agent to promote transparency and sustainability in the extractive industry.",
       projectImg:
-        "https://res.cloudinary.com/draig/image/upload/v1743898025/portolio-personal/mockups/ircn7uts83lkx802befr.png",
+        "https://res.cloudinary.com/draig/image/upload/v1743035227/portolio-personal/u7huy9ubnibs978b6pl3.png",
       projectLinkGit: "https://github.com/nitraig/jema",
       projectLinkDeploy: "https://jema.excelso.xyz",
       projectStack:
