@@ -110,6 +110,17 @@ export const info = {
 
   projects: [
     {
+      projectname: "JEMA | AI for Environmental Impact Project Management ",
+      projectdescription:
+        "A platform that uses an artificial intelligence agent to promote transparency and sustainability in the extractive industry.",
+      projectImg:
+        "https://res.cloudinary.com/draig/image/upload/v1743898025/portolio-personal/mockups/ircn7uts83lkx802befr.png",
+      projectLinkGit: "https://github.com/nitraig/jema",
+      projectLinkDeploy: "https://jema.excelso.xyz",
+      projectStack:
+        "Next.js, Tailwind, Express.js, Node.js, TypeScript, IA, Trello, Google Drive, Cloudinary, PNPM, Vercel and Github.",
+    },
+    {
       projectName: "HuellitasCTG - WEBAPP",
       projectDescription:
         "I was part of the website development team for HuellitasCTG, an NGO that rescues street animals and helps them find a home. In this team I collaborated as ProductOwner and ProjectManager of a team of 5 people.",
