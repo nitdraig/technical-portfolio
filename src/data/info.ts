@@ -110,6 +110,29 @@ export const info = {
 
   projects: [
     {
+      projectName: "Mining Talent Net | Find your place in the world",
+      projectDescription:
+        "Mining Talent Net is a platform that connects mining companies with professionals in the sector. It allows users to create profiles, look for job offers and request them. Companies can publish job offers and look for candidates. In addition, IA is used to facilitate the creation of positions, and improve the profile of potential talents.",
+      projectImg:
+        "https://res.cloudinary.com/draig/image/upload/v1747958124/portolio-personal/mockups/iu7vjkfwzxd9zzsse9dw.png",
+      projectLinkGit: "https://github.com/excelso-tech",
+      projectLinkDeploy: "https://miningtalent.net",
+      projectStack:
+        "Next.js, Tailwind, Express.js, Node.js, TypeScript, Trello, Google Drive, Cloudinary, PNPM, Vercel and Github.",
+    },
+    {
+      projectName: "Excelso | A tech group",
+      projectDescription:
+        "Excelso is a tech group that drives innovation, digitalization, and sustainability through digital solutions. We are a group of passionate individuals who are dedicated to creating a better future through technology.",
+      projectImg:
+        "https://res.cloudinary.com/draig/image/upload/v1745624946/portolio-personal/mockups/aneb9ya5dov3rrtphaht.png",
+      projectLinkGit: "https://github.com/excelso-tech",
+      projectLinkDeploy: "https://excelso.xyz",
+      projectStack:
+        "Next.js, Tailwind, Express.js, Node.js, TypeScript, Trello, Google Drive, Cloudinary, PNPM, Vercel and Github.",
+    },
+
+    {
       projectname: "JEMA | AI for Environmental Impact Project Management ",
       projectDescription:
         "A platform that uses an artificial intelligence agent to promote transparency and sustainability in the extractive industry.",
