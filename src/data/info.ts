@@ -1,10 +1,19 @@
 export const info = {
   experience: [
     {
+      name: "Founder & CEO",
+      location: "Excelso - Remote",
+      startDate: "Mar 2025",
+      endDate: "Present",
+      description: [
+        "✓ Excelso is a technological group that drives innovation, digitalization and sustainability through digital solutions. We are a group of passionate people who are dedicated to creating a better future through technology.",
+      ],
+    },
+    {
       name: "Web Development Project Manager",
       location: "IcarisTech - Remote",
       startDate: "Sept 2024",
-      endDate: "Present",
+      endDate: "Mar 2025",
       description: [
         "✓ I collaborate in the direction of an IT team of 5 people, as a Project Manager and performing tasks as a Web Developer.",
         "✓ I translated the client's needs to establish the sprints, guides and form the structure of the final idea.",
